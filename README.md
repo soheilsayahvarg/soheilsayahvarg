@@ -48,6 +48,6 @@ Use them to check your work, not to replace it. The lab staff have seen these fi
 
 Also: co-founder of [Resonance](https://resonanceoly.ir), an online Physics Olympiad school
 for students who have no selective high school near them, and a teaching assistant at Sharif
-for nine course-semesters.
+for ten course-semesters.
 
 📫 soheilsayahvarg@gmail.com
