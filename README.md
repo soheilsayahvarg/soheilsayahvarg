@@ -9,12 +9,12 @@ cannot be computed directly, and estimation for decision-making under partial ob
 
 ### Research
 
-Not public yet. Happy to discuss either by email.
+The confounded-POMDP implementation and results are public. The language-model manuscript is in preparation.
 
 | | |
 | --- | --- |
 | **Exact controlled generation from tilted autoregressive targets** | Digital Media Lab, Sharif. Sampling from a reward-tilted language model exactly in distribution rather than approximately, via a particle-Gibbs ladder over a batched proposal chain. Supervised by Dr. Ali Rostami, in Prof. Hamid R. Rabiee's group. Manuscript in preparation. |
-| **Model-based RL in confounded POMDPs** | An empirical implementation of a theory-only ICML 2024 result: dual bridge-function identification from negative-control proxies, oracle-verified to machine precision, extended to continuous state and action with a kernel backend. Team of three; the implementation is mine. |
+| [**Model-based RL in confounded POMDPs**](https://github.com/soheilsayahvarg/model-based-rl-confounded-pomdps) | A public empirical implementation of a theory-only ICML 2024 result: bridge-function identification from negative-control proxies, oracle-verified to machine precision, with continuous-state experiments and documented negative results. I led the implementation and experimental evaluation in a three-person team. |
 
 ---
 
