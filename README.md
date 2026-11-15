@@ -13,7 +13,9 @@ The confounded-POMDP implementation and results are public. The language-model m
 
 | | |
 | --- | --- |
-| **Exact controlled generation from tilted autoregressive targets** | Digital Media Lab, Sharif. Sampling from a reward-tilted language model exactly in distribution rather than approximately, via a particle-Gibbs ladder over a batched proposal chain. Supervised by Dr. Ali Rostami, in Prof. Hamid R. Rabiee's group. Manuscript in preparation. |
+| **Exact controlled generation from tilted autoregressive targets** | Data Science and Machine Learning Lab (DML), Sharif. Sampling from a reward-tilted language model exactly in distribution rather than approximately, via a particle-Gibbs ladder over a batched proposal chain. Supervised by Dr. Ali Rostami, in Prof. Hamid R. Rabiee's group. Manuscript in preparation. |
+| **Sequential optimization and decision-making under uncertainty** | Remote research collaboration with Prof. Rui Gao, started September 2026. Study problem formulations, numerical optimization methods, and diagnostic experiments for an open research problem. |
+| **Bandit literature review and problem formulation** | Sharif University of Technology, started September 2026, under the supervision of Dr. Amir Najafi. Reviewing batched bandits, privacy-constrained linear bandits, and misspecified kernelized bandit optimization. |
 | [**Model-based RL in confounded POMDPs**](https://github.com/soheilsayahvarg/model-based-rl-confounded-pomdps) | A public empirical implementation of a theory-only ICML 2024 result: bridge-function identification from negative-control proxies, oracle-verified to machine precision, with continuous-state experiments and documented negative results. I led the implementation and experimental evaluation in a three-person team. |
 
 ---
